@@ -2,7 +2,7 @@
 An Automated analyzer using puppeteer library to get the title, total videos, actual total videos, duration of each videos, total duration of videos of a youtube playlist.
 
 # Install The Below Dependency
-puppeteer
+puppeteer\
 pdfkit
 
 # Command To run the code
